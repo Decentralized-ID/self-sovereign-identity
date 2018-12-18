@@ -1,6 +1,10 @@
 # self-sovereign-identity
 Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 
+I copied this from [my fork](https://github.com/infominer33/self-sovereign-identity) of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
+
+This is just a temporary workspace. I'm going to use these materials to create the beginnings of a collaborative article on the [Evolution of Self Sovereign Identity](evolution-of-ssi.md); to highlight the best thought on the matter since 2016, and highlight a few needs as I see them. Once I've exhausted my interpretation, I'll put it into a google shared doc for collaboration with whoever is interested.
+
 ## Local to this repository
 * [The Path to Self-Sovereign Identity](ThePathToSelf-SovereignIdentity.md) - The original article on Self-Sovereign Identity and the 10 Principles of Self-Sovereign Identity as published on 2016-04-25 in github and at [Life With Alacrity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) by [Christopher Allen](http://www.github.com/christophera)
 
@@ -21,6 +25,5 @@ Articles and documents associated with designing and implementing identity techn
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md) from Rebooting the web of trust, Spring 2018. 
   > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market.
 
-* [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) (\*and your sister and your daughter and your best friend and your nephew) (SSI Use-Cases)
-
-* [A Gentle Guide to Self Sovereign Identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) has a section called "How would self-sovereign identity work for the user?" that could be "modularized" and improved upon.
+* [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md)
+  \* and your sister and your daughter and your best friend and your nephew (SSI Use-Cases)
