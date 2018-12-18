@@ -22,7 +22,7 @@ This is just a temporary workspace while I organize some thoughts around the [Ev
 * [7 Myths of Self Sovereign Identity](7-myths-of-self-sovereign-identity.md) - from Timothy Ruff's [blog post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1).
 
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md)
-   \* and your sister and your daughter and your best friend and your nephew (SSI Use-Cases)
+  * \* and your sister and your daughter and your best friend and your nephew (SSI Use-Cases)
 
 
 ## Still need further consideration
