@@ -1,9 +1,9 @@
 # self-sovereign-identity
 Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 
-This is a Draft Branch of [my fork](https://github.com/infominer33/self-sovereign-identity) of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
+This is a Draft Branch of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 
-This is just a temporary workspace while I organize some thoughts around the [Evolution of Self Sovereign Identity](evolution-of-ssi.md). My intention is to collect and highlight thought on SSI since 2016, and highlight a few needs as I see them. Once I've completed a review of literature on the subject, I'll put it into a google shared doc for collaboration with whoever is interested.
+I'm using this space to organize some thoughts around the [Evolution of Self Sovereign Identity](evolution-of-ssi.md). My intention is to collect and highlight thought on SSI since 2016, and outline a few needs as I see them. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc for collaboration with whoever is interested.
 
 ## Self Sovereign Identity Documentation Components
 
@@ -24,7 +24,7 @@ This is just a temporary workspace while I organize some thoughts around the [Ev
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) (\*and your sister and your daughter and your best friend and your nephew) (SSI Use-Cases)
 
 
-## Still need further consideration
+## Requires further review
 
 * [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) - Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
 
