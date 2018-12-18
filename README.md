@@ -26,4 +26,4 @@ This is just a temporary workspace. I'm going to use these materials to create t
   > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market.
 
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md)
-  \* and your sister and your daughter and your best friend and your nephew (SSI Use-Cases)
+   \* and your sister and your daughter and your best friend and your nephew (SSI Use-Cases)
