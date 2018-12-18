@@ -18,7 +18,7 @@ I'm using this space to organize some thoughts around the [Evolution of Self Sov
 
   * [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
 
-  * [Schutte's Take](https://github.com/infominer33/self-sovereign-identity/blob/master/Schutte-on-SSI.md) which offers criticism on the 10 principles.
+  * [Schutte's Take](https://github.com/infominer33/self-sovereign-identity/blob/master/Schutte-on-SSI.md) offers criticism on the 10 principles.
 
 * [7 Myths of Self Sovereign Identity](7-myths-of-self-sovereign-identity.md) - from Timothy Ruff's [blog post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1).
 
