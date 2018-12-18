@@ -3,7 +3,7 @@ Articles and documents associated with designing and implementing identity techn
 
 This is a Draft Branch of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 
-I'm using this space to organize some thoughts around the [Evolution of Self Sovereign Identity](evolution-of-ssi.md). My intention is to collect and highlight thought on SSI since 2016, and outline a few needs as I see them. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc for collaboration with whoever is interested.
+I'm using this space to organize some thoughts around the [Evolution of Self Sovereign Identity](evolution-of-ssi.md). The idea is to collect thought on SSI since 2016, and outline a few areas where I feel like our SSI documentation could be improved. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc to encourage further participation.
 
 ## Self Sovereign Identity Documentation Components
 
