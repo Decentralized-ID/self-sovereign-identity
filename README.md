@@ -1,7 +1,7 @@
 # self-sovereign-identity
 Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 
-I copied this from [my fork](https://github.com/infominer33/self-sovereign-identity) of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
+This is a Draft Branch of [my fork](https://github.com/infominer33/self-sovereign-identity) of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 
 This is just a temporary workspace. I'm going to use these materials to create the beginnings of a collaborative article on the [Evolution of Self Sovereign Identity](evolution-of-ssi.md); to highlight the best thought on the matter since 2016, and highlight a few needs as I see them. Once I've exhausted my interpretation, I'll put it into a google shared doc for collaboration with whoever is interested.
 
@@ -14,13 +14,13 @@ This is just a temporary workspace. I'm going to use these materials to create t
 
 * [7 Myths of Self Sovereign Identity](7-myths-of-self-sovereign-identity.md) - from Timothy Ruff's [blog post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1).
 
+* [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
+
 ## Elsewhere
 
 * [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) - Topic paper for Rebooting Web of Trust III by [Joe Andrieu](http://www.github.com/jandrieu)
    
 * [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) - Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
-
-* [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
 
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md) from Rebooting the web of trust, Spring 2018. 
   > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market.
