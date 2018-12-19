@@ -39,3 +39,5 @@ I'm using this space to organize some thoughts around the [Evolution of Self Sov
 * [Identity and the quest for Self Sovereign Identity - Daniel Hardman](https://www.youtube.com/watch?v=iqmY_h49vPs)
 
 * [Self Sovereign Identity and the MyData model from Finland - Antti 'Jogi' Poikola](https://www.youtube.com/watch?v=amq88XmWaNs)
+
+* [Self-Sovereign Identity (SSI) and Open Source – Richard Esplin from SSIMeetup](http://ssimeetup.org/self-sovereign-identity-ssi-open-source-richard-esplin-webinar-16/)
