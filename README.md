@@ -33,8 +33,9 @@ I'm using this space to organize some thoughts around the [Evolution of Self Sov
 
   * [Sovereignty in Historical Context for Self-Sovereign Identity – Natalie Smolenski – Webinar 18](http://ssimeetup.org/sovereignty-historical-context-self-sovereign-identity-natalie-smolenski-webinar-18/)
 
-* [Identity and the quest for Self Sovereign Identity - Daniel Hardman](https://www.youtube.com/watch?v=iqmY_h49vPs)
-
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md) from Rebooting the web of trust, Spring 2018. 
   > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market.
 
+* [Identity and the quest for Self Sovereign Identity - Daniel Hardman](https://www.youtube.com/watch?v=iqmY_h49vPs)
+
+* [Self Sovereign Identity and the MyData model from Finland - Antti 'Jogi' Poikola](https://www.youtube.com/watch?v=amq88XmWaNs)
