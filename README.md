@@ -1,3 +1,8 @@
+# NOTE: I'm decided to abandon this draft branch and re-focus my efforts at [/awesome-decentralized-id/self-sovereign-identity/](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity), for the time being.
+
+In the mean-time I hope to collaborate with anyone who will be interested to discuss and sort through available resources on Self-Sovereign-Identity.
+
+
 # Self Sovereign Identity
 
 Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
