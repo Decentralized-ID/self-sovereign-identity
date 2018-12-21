@@ -1,4 +1,6 @@
-### NOTE: I'm decided to abandon this draft branch and re-focus my efforts at [/awesome-decentralized-id/self-sovereign-identity/](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity), for the time being.
+### NOTE: I'm decided to abandon this draft branch and re-focus my efforts at [/awesome-decentralized-id/self-sovereign-identity/](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity).
+
+**Same project, just finding a home with the rest of the decentralized identity resource I've been collecting; so that "my" repo will be more inclusive, and this one will be "only the best" ;)**
 
 ---
 
