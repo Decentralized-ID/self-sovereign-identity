@@ -1,4 +1,4 @@
-# NOTE: I'm done working on /WebOfTrustInfo/self-sovereign-identity for now.
+## NOTE: I'm done working on /WebOfTrustInfo/self-sovereign-identity for now.
 
 **My efforts to organize SSI thought have relocated to [/awesome-decentralized-id/self-sovereign-identity/](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) for the time being, which will become a much more expansive resource than this. From there, I intend to study and collect *all* of the SSI resources. Once the best are found, cataloged, and produced, as necessary, I'll come back here and work on a distilled version.**
 
