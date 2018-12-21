@@ -1,4 +1,12 @@
-# self-sovereign-identity
+# NOTE: I'm done working on /WebOfTrustInfo/self-sovereign-identity for now.
+
+**My efforts to organize SSI thought have relocated to [/awesome-decentralized-id/self-sovereign-identity/](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) for the time being, which will become a much more expansive resource than this. From there, I intend to study and collect *all* of the SSI resources. Once the best are found, cataloged, and produced, as necessary, I'll come back here and work on a distilled version.**
+
+In the mean-time I hope to collaborate with anyone who will be interested to discuss and sort through available resources on Self-Sovereign-Identity.
+
+---
+
+## self-sovereign-identity
 Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 
 ## Local to this repository
@@ -39,5 +47,5 @@ Articles and documents associated with designing and implementing identity techn
 
 * [Self-sovereign Identity: A position paper on blockchain enabled identity and the road ahead](https://jolocom.io/wp-content/uploads/2018/10/Self-sovereign-Identity-_-Blockchain-Bundesverband-2018.pdf) \*Published by the Identity Working Group of the German Blockchain Association
 
-* [SSIMeetup](http://ssimeetup.org/) ([slideshare](https://www.slideshare.net/SSIMeetup/presentations)) ([youtube](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og))
+* [SSIMeetup](http://ssimeetup.org/) ([slideshare](https://www.slideshare.net/SSIMeetup/presentations)) ([youtube](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)) ([telegram](https://t.me/SSIMeetup))
 \- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
